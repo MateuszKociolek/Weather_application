@@ -9,7 +9,7 @@
         </p>
         <p class="h5">
             <span class="text-success">Usage:</span> <br>
-            1. lick "Weather" in navigation bar <br>
+            1. Click "Weather" in navigation bar <br>
             2. Write your city in input Field <br>
         </p>
     </div>
