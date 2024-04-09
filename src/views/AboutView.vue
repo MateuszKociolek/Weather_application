@@ -7,8 +7,8 @@
 </template>
 
 <script>
-  import CityData from "./weatherPage/cityData.vue";
-  import CityInput from "./weatherPage/cityInput.vue";
+  import CityData from "../components/weatherPage/cityData.vue";
+  import CityInput from "../components/weatherPage/cityInput.vue";
 
 
   export default {
